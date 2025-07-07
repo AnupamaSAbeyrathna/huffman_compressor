@@ -34,3 +34,4 @@ if __name__ == "__main__":
     
     print(f"\nTotal characters: {len(test_text)}")
     print(f"Unique characters: {len(freq)}")
+    #end
